@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m **Noureddine (the-shadow-0)**—a passionate Machine Learning & AI Engineer and Full-Stack Developer representing a forward-thinking AI solutions company. I thrive on crafting elegant, performant applications that bridge intuitive UI/UX with powerful data-driven logic. From designing deep-learning models to building responsive web apps, I’m always curious, always learning, and always collaborating with the open-source community.
+👋 Hi there! I’m **Noureddine (the-shadow-0)**—a passionate Machine Learning, AI Engineer and Full-Stack Developer representing a forward-thinking AI solutions company. I thrive on crafting elegant, performant applications that bridge intuitive UI/UX with powerful data-driven logic. From designing deep-learning models to building responsive web apps, I’m always curious, always learning, and always collaborating with the open-source community.
 
 ---
 
