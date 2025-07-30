@@ -1,33 +1,40 @@
 # 💫 About Me:
-👋 Hi there! I’m **Noureddine (the-shadow-0)**—a passionate Machine Learning, AI Engineer and Full-Stack Developer representing a forward-thinking AI solutions company. I thrive on crafting elegant, performant applications that bridge intuitive UI/UX with powerful data-driven logic. From designing deep-learning models to building responsive web apps, I’m always curious, always learning, and always collaborating with the open-source community.
+👋 Hi there! I’m Noureddine (the-shadow-0)—a Pentester, Bug Hunter & Ethical Hacker specializing in web applications, APIs, mobile and desktop platforms, and also a Developer. I thrive on uncovering vulnerabilities, securing complex systems, and building reliable, maintainable software that stands up to real‑world threats.
 
 ---
 
-## 🛠️ What I Build & Deliver
-- **AI-Driven Solutions**:  
-  - Model development & deployment (computer vision, NLP, recommendation systems, predictive analytics)  
-  - Python (NumPy, Pandas, scikit-learn, TensorFlow, PyTorch)  
-  - Data preprocessing, feature engineering, hyperparameter tuning, model evaluation & optimization  
+## 🛠️ What I Test & Build
 
-- **Agentic AI & Autonomous Workflows**:  
-  - Crew AI & LangGraph-powered multi-agent systems  
-  - Custom AI agents, orchestration of workflows, RL prototyping  
-  - Automating complex tasks, integrating third-party APIs, end-to-end pipeline design  
+- **Web Application & API Security**  
+  - **Advanced Threat Modeling & Attack Surface Analysis**: OWASP Top 10, JSON Web Token flows, GraphQL introspection, OAuth/OIDC flows  
+  - **Automated & Manual Testing**: Burp Suite Pro macros, custom Python/Go scanners, API fuzzers (REST & gRPC), CI/CD security gating  
+  - **Injection & Logic Flaws**: Deep chain analysis (multi-step SSRF, API chaining), GraphQL query injection, mass assignment exploits, business logic abuse  
+  - **Interactive Exploitation**: Real-time collaboration with Burp Collaborator, headless browser scripting (Puppeteer)
 
-- **Full-Stack Web Development**:  
-  - **Front-End**: React, Vue.js, HTML5, CSS3, JavaScript, TypeScript, responsive design, UI/UX best practices  
-  - **Back-End**: Python (Django, Flask), PHP (WordPress integrations), Node.js, RESTful APIs, GraphQL, microservices  
-  - **Databases & DevOps**: MySQL, MariaDB, MongoDB, Redis, SQLite, Docker, Kubernetes, CI/CD pipelines, Google Cloud, Cloudflare  
+- **Mobile & Desktop Assessment**  
+  - **Hybrid Analysis Pipelines**: Combining static (MobSF, JADX) and dynamic instrumentation (Frida, Xposed)  
+  - **Binary & Firmware Reverse Engineering**: IDA Pro/Ghidra scripting, ARM/x86 hooking, memory dumping & decryption workflows  
+  - **Secure Code & Dependency Review**: Automated SAST (Bandit, SonarQube), SBOM generation, license compliance checks for Electron, React Native, Xamarin  
 
-- **Open-Source & GitHub Collaboration**:  
-  - Active contributor: writing clean, documented code, managing pull requests, fostering community engagement  
-  - Building developer-friendly libraries and tools that solve real-world problems  
-  - Maintaining high test coverage, modular architecture, and detailed READMEs  
+- **Bug Hunting & Ethical Hacking**  
+  - **Smart Fuzzing & Coverage-Guided Testing**: AFL++ integration, grammar-based fuzzers for complex protocols, headless emulation environments  
+  - **Exploit Development Frameworks**: Modular PoC templates (Metasploit & custom frameworks), chaining CVEs for full RCE  
+  - **Coordinated Disclosure & Incident Response**: Automated report generation (Markdown & JSON), CVSS scoring, remediation advisory, vendor liaison  
 
+- **Full-Stack Development & Secure Coding**  
+  - **Secure API Engineering**: JWT/OAuth2 hardening, input validation libraries (Cerberus, Joi), rate-limiting & WAF rule integration  
+  - **Front‑end Security Patterns**: CSP/CDN integration, sandboxed iframes, secure cookie flags, anti-XSS templating (DOMPurify)  
+  - **DevSecOps & Pipeline Automation**: IaC scanning (Terraform, CloudFormation), SCA (OWASP Dependency-Check), dynamic DAST in CI (GitLab/GitHub Actions)  
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)<br/> ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)<br/>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br/> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) <br/>![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) <br/>
- ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+- **Open‑Source & Community**  
+  - **Tooling & Framework Contributions**: Custom Burp extensions, open CI security workflows  
+  - **Educational Content & Research**: In-depth write-ups, workshop materials, Capture‑The‑Flag challenges  
+  - **Mentorship & Collaboration**: Code reviews, community rounds (OWASP, Hackathons, Discord/SIGs)  
+
+---
+
+---
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=the-shadow-0&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=the-shadow-0&theme=vue-dark&hide_border=false)<br/>
