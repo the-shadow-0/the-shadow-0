@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I’m Noureddine (the-shadow-0)—a Pentester, Bug Hunter & Ethical Hacker specializing in web applications, APIs, mobile and desktop platforms, and also a Developer. I thrive on uncovering vulnerabilities, securing complex systems, and building reliable, maintainable software that stands up to real‑world threats.
+👋 Hi there! I’m Noureddine aka the-shadow-0 a Pentester, Bug Hunter & Ethical Hacker specializing in web applications, APIs, mobile and desktop platforms, and also a Developer. I thrive on uncovering vulnerabilities, securing complex systems, and building reliable, maintainable software that stands up to real‑world threats.
 
 ---
 
