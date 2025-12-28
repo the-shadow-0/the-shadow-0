@@ -70,20 +70,6 @@ I design and build reliable software while actively testing and hardening system
 
 </div>
 
----
-
-*Want it shorter, more C/C++ project detail, or a resume‑style single page? Tell me which sections to compress or expand and I’ll update it.*
-
-
----
-
-# 📊 GitHub Stats:
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=the-shadow-0&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=the-shadow-0&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=the-shadow-0&icon=4&color=1)](https://visitcount.itsvg.in)
