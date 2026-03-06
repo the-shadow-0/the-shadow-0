@@ -183,11 +183,4 @@ Building scalable AI services with clean API architecture.
 
 ---
 
-# 📫 Connect
-
-💻 GitHub  
-https://github.com/the-shadow-0
-
----
-
 ⭐ Always exploring new ideas in **AI, automation, and software engineering.**
