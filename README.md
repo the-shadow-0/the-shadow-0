@@ -20,21 +20,62 @@ I enjoy building systems that automate workflows, process data, and strengthen s
 
 ## 🚀 Core Skills
 
-**Languages:** Python · JavaScript · TypeScript · SQL · Bash
+### 💻 Languages
 
-**AI & ML:** LLM Applications · AI Agents · Prompt Engineering · Vector DBs · RAG
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoftsqlserver\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?logo=gnubash\&logoColor=white)
 
-**Backend:** FastAPI · Flask · Node.js · REST · GraphQL · Microservices
+### 🤖 AI & Machine Learning
 
-**Frontend:** React · Next.js · Tailwind CSS
+![LLM](https://img.shields.io/badge/LLM-Applications-blueviolet)
+![AI Agents](https://img.shields.io/badge/AI-Agents-purple)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-orange)
+![RAG](https://img.shields.io/badge/RAG-Systems-teal)
+![Vector DB](https://img.shields.io/badge/Vector-Database-darkgreen)
 
-**Databases:** PostgreSQL · MySQL · Redis · Vector DBs
+### ⚙️ Backend Development
 
-**Cybersecurity:** Penetration Testing · Bug Bounty · Vulnerability Research · Secure Coding
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-API-blue)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql\&logoColor=white)
 
-**Tools:** Docker · GitHub · CI/CD · Nmap · Burp Suite · Metasploit · Wireshark
+### 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?logo=react\&logoColor=61DAFB)
+![NextJS](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss\&logoColor=white)
+
+### 🗄 Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis\&logoColor=white)
+
+### 🔐 Cybersecurity
+
+![Penetration Testing](https://img.shields.io/badge/Penetration-Testing-red)
+![Bug Bounty](https://img.shields.io/badge/Bug-Bounty-critical)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability-Research-darkred)
+![Secure Coding](https://img.shields.io/badge/Secure-Coding-green)
+
+### 🛠 Tools & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI-CD-blue)
+![Nmap](https://img.shields.io/badge/Nmap-NetworkScanner-blue)
+![Burp Suite](https://img.shields.io/badge/Burp-Suite-orange)
+![Metasploit](https://img.shields.io/badge/Metasploit-Framework-lightgrey)
 
 ---
+
 
 ## 🏗 Engineering Philosophy
 
