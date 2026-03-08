@@ -98,32 +98,17 @@ I enjoy building systems that automate workflows, process data, and strengthen s
 
 ---
 
+# 📊 GitHub Statistics
 
-## ✨ GitHub Extras (copy these into your README where you'd like badges/stats)
+<div align="center">
 
-**Top-level quick badges**
+![](https://github-readme-stats.vercel.app/api?username=the-shadow-0&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
 
-```
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0B6FFF&center=true&vCenter=true&lines=AI+Engineer+%E2%80%A2+Python+Developer+%E2%80%A2+Cybersecurity+Enthusiast)](https://github.com/the-shadow-0)
-```
+![](https://nirzak-streak-stats.vercel.app/?user=the-shadow-0&theme=vue-dark&hide_border=false)
 
-**GitHub stats (requires github-readme-stats)**
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&theme=vue-dark&hide_border=false&layout=compact)
 
-```
-![the-shadow-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-shadow-0&show_icons=true&theme=radical)
-```
-
-**Top languages**
-
-```
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&layout=compact)
-```
-
-**Contribution phrase**
-
-```
-![visitors](https://komarev.com/ghpvc/?username=the-shadow-0)
-```
+</div>
 
 ---
 
@@ -134,4 +119,6 @@ I enjoy building systems that automate workflows, process data, and strengthen s
 * Contract work: backend, AI, automation, and security engineering
 
 ---
+
+⭐ Always exploring new ideas in **AI, automation, and reverse engineering.**
 
