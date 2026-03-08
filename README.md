@@ -2,8 +2,6 @@
 
 **AI Engineer • Python Developer • Cybersecurity Enthusiast • Full-Stack Builder**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=the-shadow-0\&color=blue)](https://github.com/the-shadow-0)
-
 > I build AI-powered applications, automation systems, scalable APIs, and security-focused tools. My focus is on LLM applications, AI agents, backend systems, penetration testing, and full-stack platforms designed for real-world production.
 
 ---
