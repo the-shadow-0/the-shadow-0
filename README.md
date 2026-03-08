@@ -1,186 +1,137 @@
 # 👨‍💻 Noureddine (the-shadow-0)
 
-### AI Engineer • Python Developer • Full-Stack Builder
+**AI Engineer • Python Developer • Cybersecurity Enthusiast • Full-Stack Builder**
 
-🚀 I build **AI-powered applications, automation systems, and scalable APIs** using Python and modern web technologies.
+[![Profile Views](https://komarev.com/ghpvc/?username=the-shadow-0\&color=blue)](https://github.com/the-shadow-0)
 
-My focus is on **LLM applications, AI agents, backend systems, and full-stack platforms** designed for real-world production.
-
----
-
-# 🧠 About Me
-
-• AI engineer focused on **LLM applications and intelligent automation**  
-• Backend specialist building **scalable API systems with Python**  
-• Full-stack developer creating **modern web platforms and dashboards**  
-• Security-minded engineer applying **secure design and automation**
-
-I enjoy building **AI systems that automate workflows, process data, and power modern applications.**
+> I build AI-powered applications, automation systems, scalable APIs, and security-focused tools. My focus is on LLM applications, AI agents, backend systems, penetration testing, and full-stack platforms designed for real-world production.
 
 ---
 
-# 🚀 Core Skills
+## 🧠 About Me
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?logo=database&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-black?logo=gnubash)
+* AI engineer focused on **LLM applications and intelligent automation**
+* Backend specialist building **scalable API systems with Python**
+* Full-stack developer creating **modern web platforms and dashboards**
+* **Cybersecurity & bug hunting** practitioner doing pentesting, vulnerability research, and automation
+* Security-minded engineer applying **secure design, testing, and threat modeling** from the start
 
----
-
-### AI & Machine Learning
-![LLM](https://img.shields.io/badge/LLM%20Apps-purple)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-blue)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-green)
-![Vector Databases](https://img.shields.io/badge/Vector%20Databases-orange)
+I enjoy building systems that automate workflows, process data, and strengthen security for real-world apps.
 
 ---
 
-### Backend Development
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?logo=flask)
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?logo=node.js&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-blue)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql)
+## 🚀 Core Skills
+
+**Languages:** Python · JavaScript · TypeScript · SQL · Bash
+
+**AI & ML:** LLM Applications · AI Agents · Prompt Engineering · Vector DBs · RAG
+
+**Backend:** FastAPI · Flask · Node.js · REST · GraphQL · Microservices
+
+**Frontend:** React · Next.js · Tailwind CSS
+
+**Databases:** PostgreSQL · MySQL · Redis · Vector DBs
+
+**Cybersecurity:** Penetration Testing · Bug Bounty · Vulnerability Research · Secure Coding
+
+**Tools:** Docker · GitHub · CI/CD · Nmap · Burp Suite · Metasploit · Wireshark
 
 ---
 
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![NextJS](https://img.shields.io/badge/NextJS-black?logo=next.js)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwindcss)
+## 🏗 Engineering Philosophy
+
+* Build **AI systems that solve real problems**
+* Design **API-first architectures** with observability and testing
+* Automate workflows using **AI agents and Python**
+* Write **clean, production-ready code** with security in mind
+* Apply **security testing and monitoring from day one**
 
 ---
 
-### Databases
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql)
-![Redis](https://img.shields.io/badge/Redis-red?logo=redis)
+## 💼 Featured Projects
+
+### 🤖 AI Agent Automation Platform
+
+**Description:** Multi-agent platform that researches, drafts, and publishes content automatically.
+
+**Features:** Multi-agent orchestration · Content generation · API integrations · Automated publishing
+
+**Tech:** Python · FastAPI · LLM APIs · Redis · Docker
 
 ---
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![CI/CD](https://img.shields.io/badge/CI/CD-blue)
+### 🧠 LLM Microservice API
+
+**Description:** A scalable API wrapper around LLM providers for production use.
+
+**Features:** Prompt processing · Request caching · Rate limiting · Vector search
+
+**Tech:** Python · FastAPI · PostgreSQL · Redis · Vector DB
 
 ---
 
-# 🏗 Engineering Philosophy
+### 📊 AI Analytics Dashboard
 
-✔ Build **AI systems that solve real problems**  
-✔ Design **API-first architectures**  
-✔ Automate workflows using **AI agents and Python**  
-✔ Write **clean, scalable, production-ready code**  
-✔ Apply **security and testing from the start**
+**Description:** Dashboard to monitor model outputs, token usage, and pipelines.
 
----
+**Features:** Response analytics · Token usage charts · Pipeline monitoring
 
-# 💼 Featured Projects
-
-## 🤖 AI Agent Automation Platform
-AI agents that research, write, and publish content automatically.
-
-**Features**
-
-• Multi-agent workflow orchestration  
-• Content generation with LLMs  
-• API integrations  
-• Automated publishing
-
-**Tech**
-
-Python • FastAPI • LLM APIs • Redis • Docker
+**Tech:** Next.js · React · Tailwind · FastAPI
 
 ---
 
-## 🧠 LLM Microservice API
+### 🔐 Security Research Toolkit
 
-A scalable API wrapper around LLM providers.
+**Description:** Scripts and small tools for reconnaissance, scanning, and automated vulnerability checks.
 
-**Features**
+**Features:** Recon automation · Bug bounty helpers · Web security testing · CI security checks
 
-• Prompt processing API  
-• Request caching  
-• Rate limiting  
-• Vector search support
-
-**Tech**
-
-Python • FastAPI • PostgreSQL • Redis • Vector DB
+**Tech:** Python · Bash · Linux · Security APIs
 
 ---
 
-## 📊 AI Analytics Dashboard
+## 🔧 Scripts & Utilities
 
-Web dashboard to monitor AI pipelines and model outputs.
-
-**Features**
-
-• Model response analytics  
-• Token usage visualization  
-• Pipeline monitoring  
-• Data visualization
-
-**Tech**
-
-Next.js • React • Tailwind • FastAPI
+* Automation toolkit: scheduled workflows, scraping, ETL, background workers
+* Pentest helpers: automated recon, endpoint enumerators, credential fuzzers (ethical use only)
+* CI security checks: static analysis, dependency scanning, basic SAST rules
 
 ---
 
-## ⚙️ Automation Toolkit
 
-Python automation toolkit for workflow automation and data processing.
+## ✨ GitHub Extras (copy these into your README where you'd like badges/stats)
 
-**Features**
+**Top-level quick badges**
 
-• Scheduled workflows  
-• Data scraping and transformation  
-• API integrations  
-• Background workers
+```
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0B6FFF&center=true&vCenter=true&lines=AI+Engineer+%E2%80%A2+Python+Developer+%E2%80%A2+Cybersecurity+Enthusiast)](https://github.com/the-shadow-0)
+```
 
----
+**GitHub stats (requires github-readme-stats)**
 
-# 📊 GitHub Statistics
+```
+![the-shadow-0's GitHub stats](https://github-readme-stats.vercel.app/api?username=the-shadow-0&show_icons=true&theme=radical)
+```
 
-<div align="center">
+**Top languages**
 
-![](https://github-readme-stats.vercel.app/api?username=the-shadow-0&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+```
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&layout=compact)
+```
 
-![](https://nirzak-streak-stats.vercel.app/?user=the-shadow-0&theme=vue-dark&hide_border=false)
+**Contribution phrase**
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&theme=vue-dark&hide_border=false&layout=compact)
-
-</div>
-
----
-
-# 📚 Areas of Interest
-
-• Artificial Intelligence Engineering  
-• LLM Applications  
-• AI Agents  
-• Automation Platforms  
-• Developer Tools  
-• AI-powered SaaS
+```
+![visitors](https://komarev.com/ghpvc/?username=the-shadow-0)
+```
 
 ---
 
-# 🎤 Talks & Knowledge Sharing
+## 🧩 Open to
 
-### Building AI Applications with Python
-Architecture patterns for production AI apps.
-
-### AI Agents & Workflow Automation
-Designing intelligent systems that automate complex tasks.
-
-### API-First AI Systems
-Building scalable AI services with clean API architecture.
+* Collaborations on AI production systems
+* Bug bounty and pentesting projects (authorized scope only)
+* Contract work: backend, AI, automation, and security engineering
 
 ---
 
-⭐ Always exploring new ideas in **AI, automation, and software engineering.**
