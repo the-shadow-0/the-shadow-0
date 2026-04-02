@@ -141,11 +141,11 @@ I enjoy building systems that automate workflows, process data, and strengthen s
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api?username=the-shadow-0&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=the-shadow-0&theme=vue-dark&include_all_commits=true&count_private=true&cache_seconds=86400)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=the-shadow-0&theme=vue-dark&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=the-shadow-0&theme=vue-dark)
 
-![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&theme=vue-dark&hide_border=false&layout=compact)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&theme=vue-dark&layout=compact&cache_seconds=86400)
 
 </div>
 
