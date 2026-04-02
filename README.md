@@ -141,11 +141,11 @@ I enjoy building systems that automate workflows, process data, and strengthen s
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=the-shadow-0&show_icons=true&theme=radical&hide_border=true&title_color=ff00ff&icon_color=00fff7&text_color=ffffff" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=the-shadow-0&show_icons=true&theme=default&hide_border=true&bg_color=ffffff10&title_color=ffffff&text_color=ffffff&icon_color=58a6ff" />
 
-<img height="180" src="https://streak-stats.demolab.com?user=the-shadow-0&theme=radical&hide_border=true&ring=ff00ff&fire=ff00ff&currStreakLabel=00fff7" />
+<img height="180" src="https://streak-stats.demolab.com?user=the-shadow-0&theme=default&hide_border=true&background=ffffff10&stroke=ffffff" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&layout=compact&theme=radical&hide_border=true&title_color=00fff7" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=the-shadow-0&layout=compact&theme=default&hide_border=true&bg_color=ffffff10&text_color=ffffff" />
 
 </div>
 
